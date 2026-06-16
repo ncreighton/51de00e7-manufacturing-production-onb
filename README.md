@@ -1,2 +1,28 @@
-# 51de00e7-manufacturing-production-onb
-New hire onboarding checklists, training modules, certification tracking, and mentor assignment. Reduces onboarding time by 50%.
+# Manufacturing & Production Onboarding and Training System Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu7sLaDd2k409agUcd0j3x)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu7sLaDd2k409agUcd0j3x)
+
